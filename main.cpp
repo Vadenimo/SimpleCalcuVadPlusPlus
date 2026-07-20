@@ -68,5 +68,5 @@ int main()
 		break;
 	}
 	std::cout << "Thanks for using 'SimpleCalcVad++'! It's been so much fun to program this program! I know, it's very simple.\nHowever, it's my work, of which I am proud of! If you like my work, please consider supporting me! :3\n\nMy E-Mail adress: vadim.vadenimo@gmail.com\nMy Discord username: '@vadenimo'.\nMy BlueSky username: '@vadenimo.bsky.social'.\n\n";
-	std::cout << "'I wanna burn; Burn a candle you can see; The kinda flame; I need you to believe;\n - Ken Blast alias Jessa Stebbins, WHEN THE SUN GOES DOWN, 2010\n";
+	std::cout << "'I wanna burn; Burn a candle you can see; The kinda flame; I need you to believe;'\n - Ken Blast alias Jessa Stebbins, WHEN THE SUN GOES DOWN, 2010\n";
 }
